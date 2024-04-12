@@ -1,0 +1,8 @@
+D:\2023spring\32998.net\ExpenseTracker\ExpenseTracker.pdb
+D:\2023spring\32998.net\ExpenseTracker\D3DCompiler_47_cor3.dll
+D:\2023spring\32998.net\ExpenseTracker\PenImc_cor3.dll
+D:\2023spring\32998.net\ExpenseTracker\PresentationNative_cor3.dll
+D:\2023spring\32998.net\ExpenseTracker\vcruntime140_cor3.dll
+D:\2023spring\32998.net\ExpenseTracker\wpfgfx_cor3.dll
+D:\2023spring\32998.net\ExpenseTracker\Microsoft.Data.SqlClient.SNI.dll
+D:\2023spring\32998.net\ExpenseTracker\ExpenseTracker.exe
